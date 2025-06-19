@@ -1,0 +1,17 @@
+How do glucose levels differ between patients with and without diabetes?
+
+What is the trend of BMI across different age groups?
+
+How does blood pressure vary with age?
+
+Which features are most correlated with diabetes outcome?
+
+What is the average number of pregnancies in diabetic vs. non-diabetic patients?
+
+How does insulin level vary with BMI?
+
+Do older patients tend to have higher glucose levels?
+
+Is there any visible pattern between diabetes pedigree function and age?
+
+How do multiple features (Glucose, BMI, Age) relate to diabetes in a 3D plot?
